@@ -1,3 +1,5 @@
+# State of Mind
+
 ## Navigation
 <ul>
   {% for item in site.data.navigation %}
