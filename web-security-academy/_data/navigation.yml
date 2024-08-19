@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+
+- name: Web Security Academy Home
+  link: /web-security-academy
+  
+- name: File Upload
+  link: /web-security-academy/README.md
