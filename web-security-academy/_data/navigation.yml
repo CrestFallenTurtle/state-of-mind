@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: state-of-mind/
 
 - name: Web Security Academy Home
-  link: /web-security-academy
+  link: state-of-mind/web-security-academy/
   
 - name: File Upload
-  link: /web-security-academy/README.md
+  link: state-of-mind/web-security-academy/file_upload/README.md
