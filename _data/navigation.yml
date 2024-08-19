@@ -1,0 +1,4 @@
+- name: Home
+  link: /
+- name: Web Security Academy
+  link: /web-security-academy/README.md
