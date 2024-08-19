@@ -1,5 +1,10 @@
 # State of Mind
 
-### Links
-
-* [Burp Suite Web-academy write ups](https://crestfallenturtle.github.io/state-of-mind/web-security-academy/)
+## Navigation
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
