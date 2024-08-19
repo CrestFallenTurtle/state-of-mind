@@ -1,10 +1,10 @@
 # State of Mind
 
 ## Navigation
-<nav>
+<ul>
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-      {{ item.name }}
-    </a>
+    <li>
+      <a href="{{ item.link }}"> {{ item.name }} </a>
+    </li>
   {% endfor %}
-</nav>
+</ul>
