@@ -2,4 +2,4 @@
 
 ### Links
 
-* [Burp Suite Web-academy write ups](https://github.com/CrestFallenTurtle/state-of-mind/tree/main/web-security-academy/README.md)
+* [Burp Suite Web-academy write ups](https://crestfallenturtle.github.io/state-of-mind/web-security-academy/)
