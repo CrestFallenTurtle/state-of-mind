@@ -1,4 +1,4 @@
-# Web Security Academy - File Upload
+# Web Security Academy - OS Command Injection
 <a href="{{ site.url }}{{ site.baseurl }}"> Home</a>
 
 This file contains guides for every completed lab under the "os command injection" category.
