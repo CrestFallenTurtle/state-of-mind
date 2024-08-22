@@ -22,6 +22,6 @@ We can see that the admin page is hosted at `/admin-cym84y`, so let us go there.
 
 Once the admin panel has loaded, delete `carlos` and the lab is done.
 
-![image](https://github.com/CrestFallenTurtle/state-of-mind/blob/main/pictures/web_security_academy/access_control/admin_panel_2.png?raw=true)
+![image](https://github.com/CrestFallenTurtle/state-of-mind/blob/main/pictures/web_security_academy/access_control/admin_page_2.png?raw=true)
 <br/><br/>
-![image](https://github.com/CrestFallenTurtle/state-of-mind/blob/main/pictures/web_security_academy/access_control/result.png_2?raw=true)
+![image](https://github.com/CrestFallenTurtle/state-of-mind/blob/main/pictures/web_security_academy/access_control/result_2.png?raw=true)
