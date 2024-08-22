@@ -1,8 +1,2 @@
-- name: Home
-  link: /
-
-- name: Web Security Academy Home
-  link: /web_security_academy/
-  
 - name: File Upload
   link: /web_security_academy/file_upload/
