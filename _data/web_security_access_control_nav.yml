@@ -1,5 +1,5 @@
 - name: Unprotected admin functionality
   link: /web_security_academy/access_control/lab_unprotected_admin_functionality/
 
-- name: Unprotected admin functionality With Unpredictable URL
+- name: Unprotected admin functionality with unpredictable url
   link: /web_security_academy/access_control/lab_unprotected_admin_functionality_with_unpredictable_url/
