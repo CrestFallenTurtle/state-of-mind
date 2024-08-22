@@ -1,6 +1,9 @@
 - name: Path Traversal
   link: /web_security_academy/path_traversal/
 
+- name: Access Control
+  link: /web_security_academy/access_control/
+
 - name: File Upload
   link: /web_security_academy/file_upload/
 
