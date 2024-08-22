@@ -1,4 +1,5 @@
 # Web Security Academy - File Upload
+<a href="{{ site.url }}{{ site.baseurl }}"> Home</a>
 
 This file contains guides for every completed lab under the "file upload" category.
 

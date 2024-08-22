@@ -1,7 +1,7 @@
 # State of Mind
-<a href="{{ site.url }}"> Home</a>
+<a href="{{ site.url }}{{ site.baseurl }}"> Home</a>
 
-<i><b>Note</b>You can reach the rendered website <a href="https://crestfallenturtle.github.io/state-of-mind">here</a></i>
+<i><b>Note:</b> For the people looking at the src code, you can see the rendered website <a href="https://crestfallenturtle.github.io/state-of-mind">here</a></i>
 
 ### Navigation
 <ul>

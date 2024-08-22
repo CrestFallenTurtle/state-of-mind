@@ -1,5 +1,5 @@
 # Web Security Academy
-<a href="{{ site.url }}"> Home</a>
+<a href="{{ site.url }}{{ site.baseurl }}"> Home</a>
 
 ### Navigation
 <ul>
