@@ -1,6 +1,7 @@
-# State of Mind
+# Web Security Academy
+<a href="{{ site.url }}"> Home</a>
 
-## Navigation
+### Navigation
 <ul>
   {% for item in site.data.web_security_nav %}
     <li>

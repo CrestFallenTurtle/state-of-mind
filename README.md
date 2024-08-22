@@ -1,6 +1,7 @@
 # State of Mind
+<a href="{{ site.url }}"> Home</a>
 
-## Navigation
+### Navigation
 <ul>
   {% for item in site.data.root_nav %}
     <li>
