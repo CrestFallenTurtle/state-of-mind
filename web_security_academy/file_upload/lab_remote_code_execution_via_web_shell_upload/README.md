@@ -11,7 +11,7 @@ To solve the lab, upload a basic PHP web shell and use it to exfiltrate the cont
 You can log in to your own account using the following credentials: wiener:peter 
 ```
 
-Link: https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/file-upload-apprentice/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload#
+Link: https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/file-upload-apprentice/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload
 
 ## Solution
 Once you start this lab, you will notice a "My Account" section in the top right corner.<br><br>
