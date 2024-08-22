@@ -1,0 +1,2 @@
+- name: File path traversal, simple case
+  link: /web_security_academy/path_traversal/lab_file_path_traversal_simple_case/
