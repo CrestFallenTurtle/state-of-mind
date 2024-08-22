@@ -5,7 +5,7 @@ This file contains guides for every completed lab under the "os command injectio
 
 ### Navigation
 <ul>
-  {% for item in site.data.web_security_file_upload_nav %}
+  {% for item in site.data.web_security_os_command_injection_nav %}
     <li>
       <a href="{{ site.url }}{{ site.baseurl }}{{ item.link }}"> {{ item.name }} </a>
     </li>
