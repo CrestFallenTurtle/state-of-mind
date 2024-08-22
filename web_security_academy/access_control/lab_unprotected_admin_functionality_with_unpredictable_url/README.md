@@ -16,6 +16,8 @@ Go to the landing page.
 
 Once it has loaded, pull up the code for the website, take note of the content between `<sript>...</script>` tags
 
+![image](https://github.com/CrestFallenTurtle/state-of-mind/blob/main/pictures/web_security_academy/access_control/jscript.png?raw=true)
+
 We can see that the admin page is hosted at `/admin-cym84y`, so let us go there.
 
 Once the admin panel has loaded, delete `carlos` and the lab is done.
