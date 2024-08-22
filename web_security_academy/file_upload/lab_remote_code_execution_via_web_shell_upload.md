@@ -1,7 +1,3 @@
----
-layout: page
-title: Remote code execution via web shell upload
----
 ## Remote code execution via web shell upload
 
 Description:
