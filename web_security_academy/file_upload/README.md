@@ -2,7 +2,7 @@
 
 ## Navigation
 <ul>
-  {% for item in site.data.navigation %}
+  {% for item in site.web_security_academy.file_upload.data.navigation %}
     <li>
       <a href="{{ item.link }}"> {{ item.name }} </a>
     </li>
