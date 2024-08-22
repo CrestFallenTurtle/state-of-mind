@@ -1,0 +1,2 @@
+- name: OS command injection, simple case
+  link: /web_security_academy/os_command_injection/lab_os_command_injection_simple_case/

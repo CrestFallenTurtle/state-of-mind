@@ -1,2 +1,5 @@
 - name: File Upload
   link: /web_security_academy/file_upload/
+
+- name: OS Command Injection
+  link: /web_security_academy/os_command_injection/
