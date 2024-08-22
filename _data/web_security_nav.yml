@@ -1,3 +1,6 @@
+- name: Path Traversal
+  link: /web_security_academy/path_traversal/
+
 - name: File Upload
   link: /web_security_academy/file_upload/
 
